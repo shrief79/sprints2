@@ -1,0 +1,3 @@
+0000003 | 2023-08-20, 15:36:05.736193 [warning] - this a warning message
+0000004 | 2023-08-20, 15:36:05.736331 [error] - this a error message
+0000005 | 2023-08-20, 15:36:05.736395 [fatal] - this a fatal message
