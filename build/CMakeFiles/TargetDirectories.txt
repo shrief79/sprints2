@@ -1,0 +1,15 @@
+/home/shrief/Desktop/File_Handler/build/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/File_Handler/build/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/File_Handler/build/file_handler/CMakeFiles/fh.dir
+/home/shrief/Desktop/File_Handler/build/file_handler/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/File_Handler/build/file_handler/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/File_Handler/build/request/CMakeFiles/request.dir
+/home/shrief/Desktop/File_Handler/build/request/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/File_Handler/build/request/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/File_Handler/build/logger/CMakeFiles/simpleLogger.dir
+/home/shrief/Desktop/File_Handler/build/logger/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/File_Handler/build/logger/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/File_Handler/build/Gtest/CMakeFiles/test_request.dir
+/home/shrief/Desktop/File_Handler/build/Gtest/CMakeFiles/test_fh.dir
+/home/shrief/Desktop/File_Handler/build/Gtest/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/File_Handler/build/Gtest/CMakeFiles/rebuild_cache.dir

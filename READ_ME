@@ -1,0 +1,10 @@
+To build the apps you should make directory such as "Build".
+
+Open Build directory.
+
+Open the terminal and build the apps in two terminals. 
+
+the file_handler is working in the background.
+
+the logs does not printed on terminal but it printed on the log_file.
+
